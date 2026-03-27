@@ -1,6 +1,6 @@
 # 🤔 Problem Statements
 
-<p align="right"><b>Assigned on:</b> 26-03-2026</p>
+<p align="right"><b>Assigned on:</b> 25-03-2026</p>
 
 ---
 
@@ -38,5 +38,14 @@ Write a script to:
 5) Click on Sort By and click on newest
 6) Click on free shipping check box
 7) wait for first product and return the name=price
+
+---
+## Task 4
+
+1) Open the SauceDemo website  
+2) Enter username and password  
+3) Click on Login button  
+4) Validate the URL using `assert`  
+5) Capture a screenshot if login fails and save it locally  
 
 ---
